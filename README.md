@@ -8,12 +8,6 @@ Hi, I'm Namra Umar, an SEO Specialist with 3+ years of experience in improving w
 - Google Analytics & Search Console
 - SEO Audits
 
-## 📸 My Work Samples
-![Keyword Research](keyword-research.png)
-![On-Page Audit](onpage-audit.png)
-![Ranking Proof](ranking-report.png)
-![Backlinks Report](backlinks-proof.png)
-
 ## 📞 Contact
 Email: namraumar899@gmail.com
 
